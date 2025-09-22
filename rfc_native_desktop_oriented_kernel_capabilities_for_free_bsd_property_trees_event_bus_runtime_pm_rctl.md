@@ -4,7 +4,7 @@
 
 **Title:** Native Desktop-Oriented Kernel Capabilities (Device Property Trees, Event Bus, Runtime PM, DRM cadence, evdev/audio topology, rctl v2)
 
-**Authors:** <your-name>, reviewers tbd  
+**Authors:** Vic Thacker, reviewers tbd  
 **Status:** Draft (v0.6)  
 **Target Releases:** 16.0 experimental, 17.0 baseline  
 **Last Updated:** 2025-09-22
